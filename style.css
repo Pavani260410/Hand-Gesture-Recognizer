@@ -1,0 +1,30 @@
+body {
+    background-color: #006A80;
+    color: white;
+}
+
+h1 {
+    font-family: georgia;
+}
+
+.divboxx {
+    display: inline-flex;
+}
+
+.divbox {
+    display: inline-flex;
+}
+
+p {
+    font-size: 16px;
+    color: #252525;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+.div {
+    height: 350px;
+    width: 350px;
+    border: dashed 3.5px black;
+}
